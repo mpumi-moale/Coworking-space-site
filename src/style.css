@@ -3,3 +3,25 @@ body {
   padding: 0;
   font-family: 'Montserrat', Helvetica, sans-serif;
 }
+
+nav {
+  background: #282828;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+   margin-top: 0;
+   padding: 25px;
+}
+
+.logo {
+  font-size: 18px;
+  font-weight: 700;
+  color: whitesmoke;
+}
+
+.icon {
+  width: 25px;
+  padding-left: 10px;
+}
