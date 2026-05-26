@@ -74,6 +74,7 @@ button {
     color: whitesmoke;
     padding: 10px 15px;
     font-weight: 700;
+    margin: auto;
     cursor: pointer;
 
 }
