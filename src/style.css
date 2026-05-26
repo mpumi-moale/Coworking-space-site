@@ -43,8 +43,20 @@ h1 {
     margin: 30px 25px;
 }
 
+.item {
+    position: relative;
+}
+
 .item-img {
     width: 100%;
+}
+
+.img-banner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: red;
+    color: white;
 }
 
 .caption {
