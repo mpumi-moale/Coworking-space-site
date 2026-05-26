@@ -48,6 +48,7 @@ h1 {
 }
 
 .item-img {
+    display: block;
     width: 100%;
 }
 
@@ -61,7 +62,10 @@ h1 {
 }
 
 .caption {
+    display: flex;
+    justify-content: space-between;
     margin: 0 25px;
+    gap: 20px;
 }
 
 button {
